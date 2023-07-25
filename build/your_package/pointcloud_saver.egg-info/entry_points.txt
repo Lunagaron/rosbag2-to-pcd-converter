@@ -1,0 +1,3 @@
+[console_scripts]
+save_pcd = pointcloud_saver.save_pcd:main
+

@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/your_package/your_package.egg-info/PKG-INFO
+writing dependency_links to ../../build/your_package/your_package.egg-info/dependency_links.txt
+writing entry points to ../../build/your_package/your_package.egg-info/entry_points.txt
+writing requirements to ../../build/your_package/your_package.egg-info/requires.txt
+writing top-level names to ../../build/your_package/your_package.egg-info/top_level.txt
+reading manifest file '../../build/your_package/your_package.egg-info/SOURCES.txt'
+writing manifest file '../../build/your_package/your_package.egg-info/SOURCES.txt'
+running build
+running build_py
+copying your_package/save_pcd.py -> /home/arigatougozaimaster/Downloads/ros2_ws/build/your_package/build/lib/your_package
+running install
+running install_lib
+copying /home/arigatougozaimaster/Downloads/ros2_ws/build/your_package/build/lib/your_package/save_pcd.py -> /home/arigatougozaimaster/Downloads/ros2_ws/install/your_package/lib/python3.8/site-packages/your_package
+byte-compiling /home/arigatougozaimaster/Downloads/ros2_ws/install/your_package/lib/python3.8/site-packages/your_package/save_pcd.py to save_pcd.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/arigatougozaimaster/Downloads/ros2_ws/install/your_package/lib/python3.8/site-packages/your_package-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/your_package/your_package.egg-info to /home/arigatougozaimaster/Downloads/ros2_ws/install/your_package/lib/python3.8/site-packages/your_package-0.0.0-py3.8.egg-info
+running install_scripts
+Installing save_pcd script to /home/arigatougozaimaster/Downloads/ros2_ws/install/your_package/lib/your_package
+writing list of installed files to '/home/arigatougozaimaster/Downloads/ros2_ws/build/your_package/install.log'

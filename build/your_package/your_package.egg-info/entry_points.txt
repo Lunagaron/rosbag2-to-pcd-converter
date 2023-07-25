@@ -1,0 +1,3 @@
+[console_scripts]
+save_pcd = your_package.save_pcd:main
+

@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/your_package/your_package.egg-info
+writing ../../build/your_package/your_package.egg-info/PKG-INFO
+writing dependency_links to ../../build/your_package/your_package.egg-info/dependency_links.txt
+writing entry points to ../../build/your_package/your_package.egg-info/entry_points.txt
+writing requirements to ../../build/your_package/your_package.egg-info/requires.txt
+writing top-level names to ../../build/your_package/your_package.egg-info/top_level.txt
+writing manifest file '../../build/your_package/your_package.egg-info/SOURCES.txt'
+reading manifest file '../../build/your_package/your_package.egg-info/SOURCES.txt'
+writing manifest file '../../build/your_package/your_package.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/arigatougozaimaster/Downloads/ros2_ws/build/your_package/build
+creating /home/arigatougozaimaster/Downloads/ros2_ws/build/your_package/build/lib
+creating /home/arigatougozaimaster/Downloads/ros2_ws/build/your_package/build/lib/your_package
+copying your_package/__init__.py -> /home/arigatougozaimaster/Downloads/ros2_ws/build/your_package/build/lib/your_package
+running install
+running install_lib
+creating /home/arigatougozaimaster/Downloads/ros2_ws/install/your_package/lib/python3.8/site-packages/your_package
+copying /home/arigatougozaimaster/Downloads/ros2_ws/build/your_package/build/lib/your_package/__init__.py -> /home/arigatougozaimaster/Downloads/ros2_ws/install/your_package/lib/python3.8/site-packages/your_package
+byte-compiling /home/arigatougozaimaster/Downloads/ros2_ws/install/your_package/lib/python3.8/site-packages/your_package/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/arigatougozaimaster/Downloads/ros2_ws/install/your_package/share/ament_index
+creating /home/arigatougozaimaster/Downloads/ros2_ws/install/your_package/share/ament_index/resource_index
+creating /home/arigatougozaimaster/Downloads/ros2_ws/install/your_package/share/ament_index/resource_index/packages
+copying resource/your_package -> /home/arigatougozaimaster/Downloads/ros2_ws/install/your_package/share/ament_index/resource_index/packages
+copying package.xml -> /home/arigatougozaimaster/Downloads/ros2_ws/install/your_package/share/your_package
+running install_egg_info
+Copying ../../build/your_package/your_package.egg-info to /home/arigatougozaimaster/Downloads/ros2_ws/install/your_package/lib/python3.8/site-packages/your_package-0.0.0-py3.8.egg-info
+running install_scripts
+Installing save_pcd script to /home/arigatougozaimaster/Downloads/ros2_ws/install/your_package/lib/your_package
+writing list of installed files to '/home/arigatougozaimaster/Downloads/ros2_ws/build/your_package/install.log'

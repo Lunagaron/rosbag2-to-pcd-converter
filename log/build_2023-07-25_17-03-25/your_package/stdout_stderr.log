@@ -1,0 +1,9 @@
+running egg_info
+creating ../../build/your_package/pointcloud_saver.egg-info
+writing ../../build/your_package/pointcloud_saver.egg-info/PKG-INFO
+writing dependency_links to ../../build/your_package/pointcloud_saver.egg-info/dependency_links.txt
+writing entry points to ../../build/your_package/pointcloud_saver.egg-info/entry_points.txt
+writing requirements to ../../build/your_package/pointcloud_saver.egg-info/requires.txt
+writing top-level names to ../../build/your_package/pointcloud_saver.egg-info/top_level.txt
+writing manifest file '../../build/your_package/pointcloud_saver.egg-info/SOURCES.txt'
+error: package directory 'pointcloud_saver' does not exist

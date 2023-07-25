@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: your-package
+Version: 0.0.0
+Summary: Converts rosbag to pcd file for further
+Home-page: UNKNOWN
+Maintainer: arigatougozaimaster
+Maintainer-email: hongliang.sun@hotmail.com
+License: TODO: License declaration
+Description: UNKNOWN
+Platform: UNKNOWN
