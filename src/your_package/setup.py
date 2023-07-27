@@ -13,10 +13,7 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='arigatougozaimaster',
-    maintainer_email='hongliang.sun@hotmail.com',
     description='Converts rosbag to pcd file for further',
-    license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
